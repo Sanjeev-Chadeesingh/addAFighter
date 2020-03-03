@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+.center_text {
+    text-align: center;
+}
+
+.fight_card {
+    margin: 0 auto;
+}
